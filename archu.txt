@@ -1,0 +1,8 @@
+echo
+git init
+git help
+git status
+branch
+main
+add filr
+
